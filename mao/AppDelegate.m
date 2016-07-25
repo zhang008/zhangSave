@@ -9,7 +9,7 @@
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
-
+@property (nonatomic,copy)NSString *string;
 @end
 
 @implementation AppDelegate
